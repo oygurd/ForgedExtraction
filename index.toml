@@ -662,11 +662,199 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/create-M4A1-recipe.js"
-hash = "11196b476fbab6e30d2ab68abc88195812a23bd07697b4a634b394c057540365"
+hash = "c1d619087bcb4bc600f6e53fd1f6dbfc5441cf0775965dd16ff139fc09789315"
+
+[[files]]
+file = "kubejs/server_scripts/create-aa12-recipe.js"
+hash = "5451b489a8541574273c347273472e034e4c377bb718213d1c2069f1df81c6b2"
+
+[[files]]
+file = "kubejs/server_scripts/create-ak47recipe .js"
+hash = "690ec58abf2656fca2d083fc28fe17a971c1c3dd2433b8f4d7923fbc82464e59"
+
+[[files]]
+file = "kubejs/server_scripts/create-aug-recipe.js"
+hash = "5123c8c00ff62c1c2341bb06a5ebb2a7eddc9334d2cff3f3eb4042e4ca033d5c"
+
+[[files]]
+file = "kubejs/server_scripts/create-awp-recipe.js"
+hash = "11e4d8beec0b9b393ed8b935ba24648c7c4eee736bc42754a73d2c869d72fc22"
+
+[[files]]
+file = "kubejs/server_scripts/create-b93r-recipe.js"
+hash = "ef72d51559f3a292fb9bea5cd83d8204a768e7ea49ad206123fbc195ea7989b0"
+
+[[files]]
+file = "kubejs/server_scripts/create-cz75-recipe.js"
+hash = "c942ed7c3b0b8c55f87b8228a4b45c78ff7221476a5732e9ac99337f388cf620"
+
+[[files]]
+file = "kubejs/server_scripts/create-db2durin-recipe.js"
+hash = "6c4a0b9355c2824b3b5b2bd739484d588c439d5e29b9cc114d74cd93d36b58b6"
+
+[[files]]
+file = "kubejs/server_scripts/create-db4ursus-recipe.js"
+hash = "39048c8d9527cf4dbc22656afdc4a064f0b30f9bfee5d0840493eb6243f607be"
+
+[[files]]
+file = "kubejs/server_scripts/create-deagle50-recipe.js"
+hash = "6f189e0fbf6d718b81aef2f70225c70d209c6eb72f0831c259daa61540dba978"
+
+[[files]]
+file = "kubejs/server_scripts/create-evolys-recipe.js"
+hash = "818c7761e0c7f69a8f36ca8013136f71c5e4fa2e3e9c0f33247958477e3bddff"
+
+[[files]]
+file = "kubejs/server_scripts/create-fnfal-recipe.js"
+hash = "7ae8d5ce5dd1feaea6b3c1ae3c9821a296cbfe4b0af2c2a2b8fc5edb445f1ac8"
+
+[[files]]
+file = "kubejs/server_scripts/create-g36k-recipe.js"
+hash = "66091f2ff6efb7a9dc54bda98b462001f8686da9ff22e06a43df4e0a86e25320"
+
+[[files]]
+file = "kubejs/server_scripts/create-glock17-recipe.js"
+hash = "70f84c13d679a7c37e98e41023ef2b14af025b69b19cde796a34138db2c74669"
+
+[[files]]
+file = "kubejs/server_scripts/create-gold-deagle-recipe.js"
+hash = "3dd9394bac06adad29030bc72350ae079c3614d3f1de58033be6d239efc56b67"
+
+[[files]]
+file = "kubejs/server_scripts/create-hk416d-recipe .js"
+hash = "d09c1c5b4635f7ef5c75f023241403edbf56e602547a62755cc9ed38e70aae8f"
+
+[[files]]
+file = "kubejs/server_scripts/create-hkg3-recipe.js"
+hash = "d532e74030d1d7255218d9b5394de3998cc2a6dfecc6a378484962c9ebe193fa"
+
+[[files]]
+file = "kubejs/server_scripts/create-hkmp5a5-recipe.js"
+hash = "4a799c0d62c21fe8ffd6d2b135b59b32f2646ea4e41c3b3e5267b8b2a69136e5"
+
+[[files]]
+file = "kubejs/server_scripts/create-m1014-recipe.js"
+hash = "cb8a8724a0e10b44d0083126437c1f9293d32b25599e3be176c5f379c4166760"
+
+[[files]]
+file = "kubejs/server_scripts/create-m107-recipe.js"
+hash = "54e06dd545999f20b7fc8a62de1891a9211bc53b7d265052ee277cdae4278670"
+
+[[files]]
+file = "kubejs/server_scripts/create-m134minigun-recipe.js"
+hash = "20e62e01a8e3b09b0b6b0c342661d5f1a6b4f1af3d2d171cd6d2822718182f92"
+
+[[files]]
+file = "kubejs/server_scripts/create-m16a1_recipe.js"
+hash = "77566da2ae9d3c8c9c834cd24827c833ed07ba77f4feeaee439d8911a41487cf"
+
+[[files]]
+file = "kubejs/server_scripts/create-m16a4-recipe.js"
+hash = "ea4cd290146a8a6b8611156f8776672e073e0ded1b0a14092bede98d984bd062"
+
+[[files]]
+file = "kubejs/server_scripts/create-m1911-recipe.js"
+hash = "848660946ac848fc438267de4bee9a97e4e7f04413bbe0ab49545295753161af"
+
+[[files]]
+file = "kubejs/server_scripts/create-m249-recipe.js"
+hash = "c14c111cb734e14746da4206a8b3e5a48b8896488e836edfc8f56376d6047396"
+
+[[files]]
+file = "kubejs/server_scripts/create-m320gl-recip.js"
+hash = "9c3503abed8cd6d451a25fa1ad9ad983dbe044ce2a4eb660920b6de5c801c2dd"
+
+[[files]]
+file = "kubejs/server_scripts/create-m700rifle-recipe.js"
+hash = "6155e8c85add4835f09c3a2c93a2f9d6d38819bb2bac194fbc657a63cd22d297"
+
+[[files]]
+file = "kubejs/server_scripts/create-m870-recipe.js"
+hash = "79463a08497e05a30937e8478ce975b7bbc951dd5eff76808017a9896cd2ffd3"
+
+[[files]]
+file = "kubejs/server_scripts/create-m95-antimaterial-recipe.js"
+hash = "ac0722c913e45722fb66600df96d3eaf73907cbe095d2a6bbcad7b5346e11297"
+
+[[files]]
+file = "kubejs/server_scripts/create-mk14-recipe.js"
+hash = "cb96d9bed864350af6ca133aed825d7e800de3f77148449aec938c6de05901a1"
+
+[[files]]
+file = "kubejs/server_scripts/create-p320-recipe.js"
+hash = "f686ea79504cb8b18af92b138e6f3ea6a901f3699384a5961afdb3003ee98ec5"
+
+[[files]]
+file = "kubejs/server_scripts/create-p90-recipe.js"
+hash = "9cd0fd7f017d0921b034b4030f2733fc4de2735ccef79662b2c6c6c9ab375c2b"
+
+[[files]]
+file = "kubejs/server_scripts/create-qbz-recipe.js"
+hash = "ee447205996ede6e6047a64ce99c2e8fcccb818ab4674ef69db815152c42eb35"
+
+[[files]]
+file = "kubejs/server_scripts/create-qbz191-recipe.js"
+hash = "acfe2bb44580cc5e27abeea20786922d1225e9c72c041d64031732ff59c72e8f"
+
+[[files]]
+file = "kubejs/server_scripts/create-rpg7-recipe.js"
+hash = "66f6f8437c021021cd348ea3ff10778634c3a54667f9f386d0e213a0cf6aed61"
+
+[[files]]
+file = "kubejs/server_scripts/create-rpk-recipe.js"
+hash = "81a74b4595730ac8502b531a2f787efda20f00122cc541909503841d44b620ff"
+
+[[files]]
+file = "kubejs/server_scripts/create-scarh-recipe.js"
+hash = "ac79f51d22daf0da60d2d59b1644a23f64ab36249dbd05537891b090a5c9d0c5"
+
+[[files]]
+file = "kubejs/server_scripts/create-scarl-recipe.js"
+hash = "7a16f0fe4e6f4e65086a4998a53360964e4ccd33d9a6f14a837298f64b9d4e1f"
+
+[[files]]
+file = "kubejs/server_scripts/create-sks-recipe.js"
+hash = "8011b1d4a42cbc2d44d7384f57f782692643a4500a575336f560312d55655bff"
+
+[[files]]
+file = "kubejs/server_scripts/create-spas12-recipe.js"
+hash = "8d7b3fd7cae6213162ba90dfe156f55a228a01c4f2704417bd28aa67bb54ba2e"
+
+[[files]]
+file = "kubejs/server_scripts/create-spr15-recipe.js"
+hash = "4cae7306e505021dacc9d952f5cf33b5c580425f2334ea2e48b4db481178b3f5"
+
+[[files]]
+file = "kubejs/server_scripts/create-springfield-recipe.js"
+hash = "84965d712c1e57cb9f8455e8d1e79ec63e374747195a180e62338c9139abdb1f"
+
+[[files]]
+file = "kubejs/server_scripts/create-timeless50-recipe.js"
+hash = "f9521fa91af6b09ea0476c27599d90ee9c06570adf09947e03743ef4521ba5f0"
+
+[[files]]
+file = "kubejs/server_scripts/create-type81-recipe .js"
+hash = "35c42067f69c4b03488fc03856dcd1648e7552176e7a5b594e153509547fd33a"
+
+[[files]]
+file = "kubejs/server_scripts/create-ump45-recipe.js"
+hash = "73cf534a7be2e1eb0509ed182e0e1d3464c93eee941ec8a8a8f811a4e59dfb1d"
+
+[[files]]
+file = "kubejs/server_scripts/create-unstableweaponcore-recipe.js"
+hash = "69e5ff329c0852932fbda3937a84d56d94d7e2c3ad4d3c34f9bee197a06b73f6"
+
+[[files]]
+file = "kubejs/server_scripts/create-uzi-recipe.js"
+hash = "28c4d7b2e0073ceef7e42428c5562ed589ed19f5b483b1e6977ff86ea3b0ce4d"
+
+[[files]]
+file = "kubejs/server_scripts/create-vector-recipe.js"
+hash = "023eef7b5e3d2309cc3824901cdbea160764c8cec9a8b8d94fbdbd3c9c17d44d"
 
 [[files]]
 file = "kubejs/server_scripts/test.js"
-hash = "bb11b31d5771e028db2d313b9faf64e8cdab6b1bbb69a61802cfe3ac4fd738f0"
+hash = "8113f88f571a5293329d5c4b0bab72de3fd71a3f9c72498e928063a154c8d9aa"
 
 [[files]]
 file = "mods/accelerated-rendering.pw.toml"
@@ -1655,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9e9de573e5f01616a086ee716e53f4288f4699e1e9779593e2d9f655f4711433"
+hash = "89382970fb14164fd32ea7684202e4472752893a3f62e52f60119054177feb4b"
 
 [[files]]
 file = "resourcepacks/tconjeidark.zip"

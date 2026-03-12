@@ -1,0 +1,13 @@
+name = "Classic Bars"
+filename = "classicbar-1.20.1-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f7c247cdafddf0472eda531b281dd9bcfbd7f60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5983897
+project-id = 317642

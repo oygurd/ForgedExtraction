@@ -957,6 +957,11 @@ hash = "c09119a0f78b34efc99f20490c55d3de54c39992932c9ceb740a9055c6a00a43"
 metafile = true
 
 [[files]]
+file = "mods/classic-bars.pw.toml"
+hash = "7334d9326289408f970a9e1cb0552a2edcf8351fc31883485cc3399b7ef34284"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true

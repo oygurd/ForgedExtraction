@@ -1577,6 +1577,11 @@ hash = "8732b18e03aca67a153d4320c2530303fe5b9cb60f82dff0900e84775527f519"
 metafile = true
 
 [[files]]
+file = "mods/more-vanilla-enchantments-levels-mvel.pw.toml"
+hash = "4dbe74bf49897d4129e089a90f027b4a58aa4c074319e6784fb1bd63286b9d54"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true

@@ -1,0 +1,13 @@
+name = "More Vanilla Enchantments Levels (MVEL)"
+filename = "mvel-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4e00ea5c2edf0dd9db5448c3f7b3dec8ef06b6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7708459
+project-id = 1472182

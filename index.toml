@@ -1637,6 +1637,11 @@ hash = "eb80a866d9ff6e07d70d78a903456d3bab45436ecb1741421943aa119809e622"
 metafile = true
 
 [[files]]
+file = "mods/potion-combiner.pw.toml"
+hash = "75c7766a27236beb510acbb6c2c4290330ad9730cf979332313db5078750958c"
+metafile = true
+
+[[files]]
 file = "mods/preloading-tricks.pw.toml"
 hash = "a15b7b4e7e3ef5820f5aa6178e4d9e7c314038ab65e0567634380f7864c03389"
 metafile = true

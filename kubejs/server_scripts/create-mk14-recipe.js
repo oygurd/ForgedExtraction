@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
         [
             // The transitional item set by `transitionalItem('create:incomplete_large_cogwheel')` is the item used during the intermediate stages of the assembly
             // Like a normal recipe function, it's used as a sequence step in this array. Input and output have the transitional item
-            event.recipes.create.deploying('unfinished_weapons_parts:unfinished_mk_14', ['unfinished_weapons_parts:unfinished_mk_14', 'minecraft:diamond',]),
+            event.recipes.create.deploying('unfinished_weapons_parts:unfinished_mk_14', ['unfinished_weapons_parts:unfinished_mk_14', 'allthecompressed:diamond_block_1x',]),
             event.recipes.create.deploying('unfinished_weapons_parts:unfinished_mk_14', ['unfinished_weapons_parts:unfinished_mk_14', 'minecraft:repeater',]),
             event.recipes.create.deploying('unfinished_weapons_parts:unfinished_mk_14', ['unfinished_weapons_parts:unfinished_mk_14', 'minecraft:amethyst_shard',]),
             event.recipes.create.deploying('unfinished_weapons_parts:unfinished_mk_14', ['unfinished_weapons_parts:unfinished_mk_14', 'minecraft:piston',]),

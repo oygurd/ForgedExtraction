@@ -1032,6 +1032,11 @@ hash = "fcdf4e618cc8352a565f81312c956771abb96aad0908987b8ca84e53d3cbe34f"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+metafile = true
+
+[[files]]
 file = "mods/create-automate-everything.pw.toml"
 hash = "66ace799c884089c1928047d3ed0f856a0ea555d7e8a8d32cccf75be490417c1"
 metafile = true

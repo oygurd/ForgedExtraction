@@ -1852,6 +1852,11 @@ hash = "1c91298997e5bd3680c63b144814908aad07cca7ff25e27b867766cc102adb76"
 metafile = true
 
 [[files]]
+file = "mods/vip-capes.pw.toml"
+hash = "1569f44c137e99cf4a84f171a89ac685923e7e7fbffade48a4195fb26698e9b7"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1ce0987643cf67ac8c890d3eeeecd86ccc683ea874f0c8b06d898b12df9c3963"
 metafile = true

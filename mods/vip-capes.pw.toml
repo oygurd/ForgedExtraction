@@ -1,0 +1,13 @@
+name = "VIP Capes"
+filename = "VIP_Capes-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bc52b7df8fe005d65f6c0a1ae5e81ea8f604aef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7844613
+project-id = 1449788

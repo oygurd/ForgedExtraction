@@ -1547,11 +1547,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/ldlib.pw.toml"
-hash = "afd880e9028403834211fb8e19a77bed5e546da72570fb62086e46de83a530ef"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true

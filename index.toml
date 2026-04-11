@@ -1355,11 +1355,6 @@ hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
 metafile = true
 
 [[files]]
-file = "mods/etst-lib.pw.toml"
-hash = "164c76cc26d0bd083da96602cc50381c51ebc145449ec4040cbcebb452ffab82"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "99876b4f4941ce79c052275c1b10530b1581cc86479c4b0252e9c8b0bc93f8b7"
 metafile = true
@@ -1472,11 +1467,6 @@ metafile = true
 [[files]]
 file = "mods/json-things.pw.toml"
 hash = "87a44d6b5809a25d586f30c6a17f4a777194a582bd7c34e8504ae1abe4ba7c74"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-fuels.pw.toml"
-hash = "dc664d40ff21d7cef4082bf0ce8c759740f861bd0db870dcb27db01092b95c82"
 metafile = true
 
 [[files]]
@@ -1737,11 +1727,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-js.pw.toml"
 hash = "33be0fa7ce5cbd77658521e711c1ee586621957c7e1f7dbec3a8ac83aafe1a62"
-metafile = true
-
-[[files]]
-file = "mods/tcintegrations.pw.toml"
-hash = "8d93b245da89b2de3dfe3f8ddc2c24184b23060efb4c61e9c30eeecbbb8dd76a"
 metafile = true
 
 [[files]]

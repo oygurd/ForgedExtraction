@@ -857,6 +857,14 @@ file = "kubejs/server_scripts/test.js"
 hash = "8113f88f571a5293329d5c4b0bab72de3fd71a3f9c72498e928063a154c8d9aa"
 
 [[files]]
+file = "kubejs/startup_scripts/ObsidianNewExplosionResistance.js"
+hash = "88aa6bd490ac1d6a41be7d7b8ab1f006ba28dd4954be1dc7d29d98a479f171d9"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/accelerated-rendering.pw.toml"
 hash = "92507df5f2562c4268d2f3ed1229330222e1ff3a75fa7a7073d0a822f833a7cc"
 metafile = true
@@ -977,11 +985,6 @@ hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
-metafile = true
-
-[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "28ce51413cf71482c76526c8413732077bf9bcd0d1ebcf3264781632b3b1e971"
 metafile = true
@@ -1014,11 +1017,6 @@ metafile = true
 [[files]]
 file = "mods/counter-strike-grenades.pw.toml"
 hash = "2e1b0f0abb54fb0b91f53c7898065720e007f9840afb82a1289df12b1cff131f"
-metafile = true
-
-[[files]]
-file = "mods/craftable-elytra-remastered.pw.toml"
-hash = "0a0e7ce958d3e1e98bfca0119dba893da32a28dd5e7c87672124224c1940577c"
 metafile = true
 
 [[files]]
@@ -1222,11 +1220,6 @@ hash = "da11d2f476e657246f3bb8798611aadac54a3721fd4743c4aa54b192599c7e20"
 metafile = true
 
 [[files]]
-file = "mods/create-tinkers-compat.pw.toml"
-hash = "6945e0e31ef629c67aa7b63514dc2be1f9c5d7caf773e1686f833929af07e95e"
-metafile = true
-
-[[files]]
 file = "mods/create-totem-factory.pw.toml"
 hash = "f6420071a29c1a19f51ca4a0a88d2ecc78eb77cd4e51dd08e8a6cb20af9039d3"
 metafile = true
@@ -1337,11 +1330,6 @@ hash = "2ff0ab246ec3bf791f5b604aacd3bc0029fbc47c0faf8bd01112626ec8382d76"
 metafile = true
 
 [[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "ab724eb74148134eba7b36ba98abc883011cf76d597d1a1ea06501886e0974fc"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "a6371501702dba7ef06e9899bd1caf4e0a53c431f050ed7ff45744108571e094"
 metafile = true
@@ -1449,31 +1437,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "ed4a5d39c2cb8a41d49f7e118ceb43a04f7984d6cbd706389b7d736c507bf00a"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "5445d61b93c42ddff6b1bb92bc45cea421161d09e35e9b6d0aeb7ceeff0037bf"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "1c7bc125b62ba2c34344f56a5a8c5130cd252f408420f6b38962b4c98c252e5c"
-metafile = true
-
-[[files]]
-file = "mods/integrated-scripting.pw.toml"
-hash = "e672c5dbe4b466bb317226d283f55edceb49959264b2fc421a84e60b5056e69f"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.pw.toml"
-hash = "f02584f51a717cd1ef7f6bb8fd8185b93f73bef3cd8a5afa4491701d34239279"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "cb2fdd24ac8bc392cfb22757c422ae7e55d7891ef0fa29b2895d0d5718a993b8"
 metafile = true
 
 [[files]]
@@ -1657,26 +1620,6 @@ hash = "a15b7b4e7e3ef5820f5aa6178e4d9e7c314038ab65e0567634380f7864c03389"
 metafile = true
 
 [[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "11235263add95d02a50cef25f363a02aa1cf90e43773c1c4889a71a67192cdb4"
-metafile = true
-
-[[files]]
-file = "mods/project-red-fabrication.pw.toml"
-hash = "c681be46cd0b6a61882314e6498d001ad1cca97586a98e699aaccf2d19832981"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "3655f9bbd83aaa65be40e40a9961da4c97dee82622a44a30b7e0cded4eb1a88b"
-metafile = true
-
-[[files]]
-file = "mods/project-red-transmission.pw.toml"
-hash = "3374b17465daf9ca3eb5c069d1ee6043ba8b3a0dbe3a219212d24d3894ab4764"
-metafile = true
-
-[[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "07ce28c77d2ef8ffcfa8f8a961008b1553354d380cdc2918f2c35527a9ad528c"
 metafile = true
@@ -1802,43 +1745,13 @@ hash = "8d93b245da89b2de3dfe3f8ddc2c24184b23060efb4c61e9c30eeecbbb8dd76a"
 metafile = true
 
 [[files]]
-file = "mods/tconjei.pw.toml"
-hash = "855e5fb837575ed4c3eabf8ee02c82f80ca0ebd7b46e5dbf48fcb7f94a531419"
-metafile = true
-
-[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "435a6897e74215445c996c7e6e82127620e97a608974c34d426038b7201e540d"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-advanced.pw.toml"
-hash = "ac632abdfe3192a01db03570a17f50f00af727501b3c62beb5772f4bf0af2aa4"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "74a64acbd2275c16e47fb17e74bcd431779674cefa1f54f67f15b4d9b955aec7"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-jewelry.pw.toml"
-hash = "372db04ce17907c44084942ebdfc2428d4ac4418ae0fc8946bd462d6bf22caf3"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-katanas.pw.toml"
-hash = "ffd8136652111fb2461709f1137105ed900d56f47f2ccb4e4dc0a7540e1c4f63"
-metafile = true
-
-[[files]]
 file = "mods/tips.pw.toml"
 hash = "1200df8e3cd3d1214d9870c54408feb058cf7fda8371139ef02ef3fc89fac078"
-metafile = true
-
-[[files]]
-file = "mods/trading-players.pw.toml"
-hash = "26be05d4498acb2efd951e7591ed4eaabb0ee2d97c4940f0e868e744658eb526"
 metafile = true
 
 [[files]]

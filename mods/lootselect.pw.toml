@@ -1,0 +1,13 @@
+name = "LootSelect"
+filename = "lootselect-1.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c61c80971c6c52e754f7f191cf1311d735a43850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7884867
+project-id = 1477398

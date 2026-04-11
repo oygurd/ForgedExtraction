@@ -1547,6 +1547,11 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
+file = "mods/lootselect.pw.toml"
+hash = "a25142309233fe66226426b5f328c0f042807a8c299c91866db4f377c63c6e57"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
@@ -1844,6 +1849,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/unfinished-attachments.pw.toml"
+hash = "913063b195043501adbe78d0d2ebbe303477cec223cca50ecd8a96a3c08e4caf"
 metafile = true
 
 [[files]]

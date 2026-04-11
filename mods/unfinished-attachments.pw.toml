@@ -1,0 +1,13 @@
+name = "Unfinished Attachments"
+filename = "unfinished_attachments-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72b6af7f43d2c3b09edc3afcfcbfad479d35462c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7897020
+project-id = 1508601

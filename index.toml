@@ -1553,6 +1553,11 @@ file = "resourcepacks/tconjeidark.zip"
 hash = "f6f084ae1df2f43e4a0e70b7d361ea766a0db9be9429ef43614d3d1ad8c20be4"
 
 [[files]]
+file = "tacz-immersive-armorer-koei.pw.toml"
+hash = "9526fcee54ef71a7bdfc239275bf0a4829a45e8c0b473d7399a0f76a56fc8eec"
+metafile = true
+
+[[files]]
 file = "tacz/tacz-pre.toml"
 hash = "43c6ae6662c5e385872d5892b913fa524f210c77bcb4589062d5f814e2cb9339"
 

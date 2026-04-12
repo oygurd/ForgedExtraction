@@ -1,0 +1,13 @@
+name = "Server Monitor"
+filename = "Server Monitor-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a64af592b9a422c129532fdf947971c45517e1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7193856
+project-id = 1367033

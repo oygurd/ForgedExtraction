@@ -1,0 +1,13 @@
+name = "Accelerated Recoiling"
+filename = "acceleratedrecoiling-20.1.11-alpha-hotfix-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b4be341dd1ce3b1c4dcb2812720ad88a7ec9b07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7886944
+project-id = 1374622

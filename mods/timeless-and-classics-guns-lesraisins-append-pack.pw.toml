@@ -1,0 +1,13 @@
+name = "[TaCZ] LesRaisins Append Pack"
+filename = "lradd-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a3bd40a41cbabe8ae2b124ba6d53f54e42e330e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6597881
+project-id = 931523

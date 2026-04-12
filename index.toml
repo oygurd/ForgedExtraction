@@ -865,6 +865,11 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "mods/accelerated-recoiling.pw.toml"
+hash = "f2fd6bc6420dabb1b478fe576ec98c9e4a917d6a17d5ae19e722537cb54c4dfa"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-rendering.pw.toml"
 hash = "92507df5f2562c4268d2f3ed1229330222e1ff3a75fa7a7073d0a822f833a7cc"
 metafile = true
@@ -1310,6 +1315,11 @@ hash = "546a2e07dfe2ef19c83779b3a4123d49fa83d803a2873cb1d0d946bbb25b88ea"
 metafile = true
 
 [[files]]
+file = "mods/economy-economy-plus.pw.toml"
+hash = "bd49af9b5bab41a554bfef36881fb63a3f4c6ad91c8c7399f7356f39cc6c163e"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
 metafile = true
@@ -1397,6 +1407,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8a185af41fb24e83e4497c9362943723b6afee585cf8a3bf280ac155d29bf593"
 metafile = true
 
 [[files]]
@@ -1550,13 +1565,18 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
+metafile = true
+
+[[files]]
 file = "mods/nukateams-gun-lib.pw.toml"
 hash = "fb33e15a789b02f897f500ac188610e7f4768e2d7b465b6b35c51fee804f1fce"
 metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
+hash = "21a65898c3292880bf020c3c7e1e9da3e3725b046625d24cb5e0742d342621a0"
 metafile = true
 
 [[files]]
@@ -1577,6 +1597,11 @@ metafile = true
 [[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "4a4ad7b9c5255b80fde9a5cad1c23acc8e0133f5a588cd8c541185d52922d8b2"
+metafile = true
+
+[[files]]
+file = "mods/photon.pw.toml"
+hash = "1d709b0110a6937a64700698e3e6e7a1383945530f2c6fc6e1ec712aa09400e3"
 metafile = true
 
 [[files]]
@@ -1655,6 +1680,11 @@ hash = "f9834af674abc824248bedb2e490ab426cff92b036cb20413cbbacd67ec6f5e3"
 metafile = true
 
 [[files]]
+file = "mods/server-monitor.pw.toml"
+hash = "2353fd57d5b7963079f3bcd7fcd6237ced44f91f5017de9385f097f48e55cc4b"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
 metafile = true
@@ -1715,6 +1745,11 @@ hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
 metafile = true
 
 [[files]]
+file = "mods/super-chat.pw.toml"
+hash = "629f8866bbbcdc9dac2cf2960f0d9c781b343b71682995903d13e9989f3937dd"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -1725,13 +1760,28 @@ hash = "e417ff955d6d43c4df74f7859be0dbddf406d33e67c643150b5befd60a2f09fc"
 metafile = true
 
 [[files]]
+file = "mods/tacz-gucci-vuitton-attachments.pw.toml"
+hash = "a15342a63bf18e434f474e8a420af783aceb24b70ca261d0513857668b8eca84"
+metafile = true
+
+[[files]]
 file = "mods/tacz-js.pw.toml"
 hash = "33be0fa7ce5cbd77658521e711c1ee586621957c7e1f7dbec3a8ac83aafe1a62"
 metafile = true
 
 [[files]]
+file = "mods/tacz-turrets.pw.toml"
+hash = "a213aa539fa0af36ee6f680a7e2d3ef4e3c8dec89481252496bcc4494788cda5"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-guns-lesraisins-append-pack.pw.toml"
+hash = "5b3f49039b2a6a3ae952e611b5f10c0fea6793aa5d0abc730811f33a56a7eb2e"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "435a6897e74215445c996c7e6e82127620e97a608974c34d426038b7201e540d"
+hash = "bdf09ff8a5f8f1acbe5bff48e7cfe96f47f1643b9761abb3fce9f07348a7eb0c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Economy+ (Economy Plus)"
+filename = "economy-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e368926a04a44347229adf960a76833a8daf2c2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7368297
+project-id = 1410954

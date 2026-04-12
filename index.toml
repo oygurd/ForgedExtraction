@@ -930,16 +930,6 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
-file = "mods/bio-factory.pw.toml"
-hash = "7f5de15e4bdc359297f127c8923c1ae29f539b220e8a14aa2c38d161419653a3"
-metafile = true
-
-[[files]]
-file = "mods/biomancy.pw.toml"
-hash = "93767268710812790600ed68ca1573c91f9bc6184f1642061710dd9aede967f6"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
@@ -1037,226 +1027,6 @@ metafile = true
 [[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
-metafile = true
-
-[[files]]
-file = "mods/create-automate-everything.pw.toml"
-hash = "66ace799c884089c1928047d3ed0f856a0ea555d7e8a8d32cccf75be490417c1"
-metafile = true
-
-[[files]]
-file = "mods/create-beamline.pw.toml"
-hash = "d6b967e7005d3ed57866e50e4e2042775ed7cef64a07083dd3cccda7fed13300"
-metafile = true
-
-[[files]]
-file = "mods/create-better-fps.pw.toml"
-hash = "2dce962341375002f5937a871778cd0fc06d6bda41a3bdba8940a611b25dcd32"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "23bf9eab4b004b371ea98eb15d22a741d2abf5867b3a307860578c6d133235da"
-metafile = true
-
-[[files]]
-file = "mods/create-bigger-storage-updated-to-create-6.pw.toml"
-hash = "9086e1786956c985d8bdacaef9788239a323f2522ff186517ab0d7da70075bba"
-metafile = true
-
-[[files]]
-file = "mods/create-bigger-storage.pw.toml"
-hash = "001bbc14b75004eac703cb0225ecad68aaa81822c305260459cc29ea58865b4e"
-metafile = true
-
-[[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
-metafile = true
-
-[[files]]
-file = "mods/create-bronze.pw.toml"
-hash = "09f37bf08b492f7c32ba850525d7285c6f8d51ad547ce071c746276e74dbb3c2"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
-metafile = true
-
-[[files]]
-file = "mods/create-cobblestone.pw.toml"
-hash = "b8000303dc0295a917c7906affe680f636a6de725968cacf1573ddc51991008e"
-metafile = true
-
-[[files]]
-file = "mods/create-copper-splashing.pw.toml"
-hash = "6830c205ec74edbe7621f73e6e88bbd3f882a7217e4a33c52053e3588b997908"
-metafile = true
-
-[[files]]
-file = "mods/create-deepslate-processing.pw.toml"
-hash = "17686ee526be7b79b54d82412df29ef0a099c15eb2cb25c18ed00b7483a806f9"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "994435ced6de94b36b0a2a5e40ad87f38c1bf3f076ee94f65dfe102d4cb93f9f"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "c5f30d9ab224c5df151659e50f45e02fad4c59ff4262d75247373dd667b6e704"
-metafile = true
-
-[[files]]
-file = "mods/create-dough-compat.pw.toml"
-hash = "0b4a0e655fb4d0459ce26badfe50e291ac3cad5e96630cea3e071e1e530fb9d4"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantable-machinery.pw.toml"
-hash = "3ba6c85e3a46a7ef9d13138725db39c91090f1d61412e1a278cc25b490e99707"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
-metafile = true
-
-[[files]]
-file = "mods/create-extra-gauges.pw.toml"
-hash = "b4066f8ee6f30a59e0550e258e5ef15e59bcb20eac3ec06af4bf2e1d772c3707"
-metafile = true
-
-[[files]]
-file = "mods/create-fantasizing-again.pw.toml"
-hash = "0f99f4d213ceff067714e9af5a7ca7c55872cb6a709fbe71b5d75f3172c15a9a"
-metafile = true
-
-[[files]]
-file = "mods/create-fast-schematiccannon.pw.toml"
-hash = "9d71b39586b8cf2abd1aa9001a5c58b4629d7d6ed434177cfe4663f7dde70761"
-metafile = true
-
-[[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "9fefd44d9538c9846d43348f3edacf934e9d0c0f7ec9fecddfa6977876959873"
-metafile = true
-
-[[files]]
-file = "mods/create-industry.pw.toml"
-hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
-metafile = true
-
-[[files]]
-file = "mods/create-kart.pw.toml"
-hash = "8bd086e706b7ea5cca7b6146efd0104c729558028d1439d533fc7b8ac5319c78"
-metafile = true
-
-[[files]]
-file = "mods/create-metallurgy.pw.toml"
-hash = "1e2a4b478471719736e142568aa685e3efab2f04b5627258784662c9dd1d0048"
-metafile = true
-
-[[files]]
-file = "mods/create-misc-and-things.pw.toml"
-hash = "67ac69249248ff9b8fe176111a55b71a95dbadd718bb005fa91f9ef6c7b04f36"
-metafile = true
-
-[[files]]
-file = "mods/create-missiles.pw.toml"
-hash = "356e1b6d458bc4477860b240011424cd89290f72bf6a0f4db280bf371da0271b"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
-metafile = true
-
-[[files]]
-file = "mods/create-radars.pw.toml"
-hash = "12b094fde4c4fc7351aa61e5438d1974ad110508144e96d48ece6c2037366c3f"
-metafile = true
-
-[[files]]
-file = "mods/create-ratatouille.pw.toml"
-hash = "764675450cd479b4cd48bb4aae4895608094c4a45fef2f948029ded38068c095"
-metafile = true
-
-[[files]]
-file = "mods/create-sophisticated-backpacks-compat.pw.toml"
-hash = "7e6cf9b0d48cce70273efbc86f834d138aaec540cecfe693d23389ef78181c6f"
-metafile = true
-
-[[files]]
-file = "mods/create-springs.pw.toml"
-hash = "f28398c8cfbd19a04655b8c079389e78b2f1d2624c4612d88a68c986e9c67e2c"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "bdf45d64c4cc137e9ac3a036ad5a4d4375bc1823e72c726bb03657f8b87ad496"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "baaedf357e45d8998dd5c81bbd06fc86764728c20d1f61a14f33d9908c393e5a"
-metafile = true
-
-[[files]]
-file = "mods/create-tacz-automation.pw.toml"
-hash = "915f3ec2dc60689d3ef4ee91cec6a6a21bf7ba6a4e46a0a16a2c555b4f3777e6"
-metafile = true
-
-[[files]]
-file = "mods/create-tank-defenses.pw.toml"
-hash = "c58b3c215d107ad651567522d6f8ea19248c20691b20ae47d07fe42127173c19"
-metafile = true
-
-[[files]]
-file = "mods/create-threaded-trains.pw.toml"
-hash = "da11d2f476e657246f3bb8798611aadac54a3721fd4743c4aa54b192599c7e20"
-metafile = true
-
-[[files]]
-file = "mods/create-totem-factory.pw.toml"
-hash = "f6420071a29c1a19f51ca4a0a88d2ecc78eb77cd4e51dd08e8a6cb20af9039d3"
-metafile = true
-
-[[files]]
-file = "mods/create-track-map-forge.pw.toml"
-hash = "e68b60397ddd7954631dd9280fc9f600ade7bc71de3e23d023a9bf9966937ac2"
-metafile = true
-
-[[files]]
-file = "mods/create-transmission.pw.toml"
-hash = "b68103df835f24315c91454854a63f12965ab4cb9d3d6e307ca2a4259a7e772f"
-metafile = true
-
-[[files]]
-file = "mods/create-tweaked-controllers.pw.toml"
-hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
-metafile = true
-
-[[files]]
-file = "mods/create-waystones-recipes.pw.toml"
-hash = "88c68b9bea4b158f04f52a2bb1693397b745a74e557291acb7386e4df6f1dc34"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
 
 [[files]]
@@ -1505,11 +1275,6 @@ hash = "aad3ba71ab283296c6d24adf984fbfa0f5c238b7625c1016df18f7280a628d32"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
@@ -1710,11 +1475,6 @@ hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "0462f0b658c766e1ccb9974f576090713738606d6513aba89cf8d5ba2b00847b"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "5a736edc923128440da9678dfa785b98478ef68e69c98ae0bdd7feb6fce23e40"
 metafile = true
@@ -1722,11 +1482,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "023c2cb041a7e05ddfbdb676513404b1c481311b9f87544dc397ab73b0241b14"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "33b4d30364583bdd7cde0eb6dddd546abdbb4fc59697af3cf3b59a3beb8d0729"
 metafile = true
 
 [[files]]
@@ -1752,11 +1507,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
-metafile = true
-
-[[files]]
-file = "mods/tacz-create.pw.toml"
-hash = "e417ff955d6d43c4df74f7859be0dbddf406d33e67c643150b5befd60a2f09fc"
 metafile = true
 
 [[files]]

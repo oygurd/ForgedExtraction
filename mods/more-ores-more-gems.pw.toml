@@ -1,0 +1,13 @@
+name = "More Ores More Gems (Java Edition)"
+filename = "momg-1.1.7-release-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "742fd2060b7d0ffd27a0b150b3b9eac78764f95a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7201803
+project-id = 1119948

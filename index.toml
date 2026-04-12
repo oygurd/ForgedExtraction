@@ -955,11 +955,6 @@ hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
 metafile = true
 
 [[files]]
-file = "mods/cgs.pw.toml"
-hash = "c09119a0f78b34efc99f20490c55d3de54c39992932c9ceb740a9055c6a00a43"
-metafile = true
-
-[[files]]
 file = "mods/classic-bars.pw.toml"
 hash = "7334d9326289408f970a9e1cb0552a2edcf8351fc31883485cc3399b7ef34284"
 metafile = true
@@ -1052,11 +1047,6 @@ metafile = true
 [[files]]
 file = "mods/dank-storage.pw.toml"
 hash = "23a3b030c2dce29501f22bd94204aed9e2daa63ac786dc57232fc2ac076a05d8"
-metafile = true
-
-[[files]]
-file = "mods/delightful-creators-forge.pw.toml"
-hash = "53765070751a193b0a66efd6886b9b8b57253c215ee9f2918c5e492df2b2c1ec"
 metafile = true
 
 [[files]]
@@ -1202,11 +1192,6 @@ metafile = true
 [[files]]
 file = "mods/hyperslide.pw.toml"
 hash = "fd7023f45cbdbf74bb4fa20f555ef96bc1e4f9fc4f74c0782916a545d87a698c"
-metafile = true
-
-[[files]]
-file = "mods/hypertubes.pw.toml"
-hash = "306d0b88f041285cdadabbc5b1710b4ab527afbe0c2d2370209863ab960c8d2f"
 metafile = true
 
 [[files]]
@@ -1360,11 +1345,6 @@ hash = "cb460a3843c794a051649d2fa90c024623a2ea3c2faa31dcde0536694f6fcce9"
 metafile = true
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "4a4ad7b9c5255b80fde9a5cad1c23acc8e0133f5a588cd8c541185d52922d8b2"
-metafile = true
-
-[[files]]
 file = "mods/photon.pw.toml"
 hash = "1d709b0110a6937a64700698e3e6e7a1383945530f2c6fc6e1ec712aa09400e3"
 metafile = true
@@ -1400,11 +1380,6 @@ hash = "a15b7b4e7e3ef5820f5aa6178e4d9e7c314038ab65e0567634380f7864c03389"
 metafile = true
 
 [[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "07ce28c77d2ef8ffcfa8f8a961008b1553354d380cdc2918f2c35527a9ad528c"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
@@ -1430,11 +1405,6 @@ hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
 metafile = true
 
 [[files]]
-file = "mods/scorched-guns.pw.toml"
-hash = "510af39c0dffb85b33268b8e381348d6e7d3ab28a6ea3a089bf483b63b6fa37c"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
@@ -1452,11 +1422,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "9b59e9b08c1281a521777e9924dab6c258e42c5d1c06852b9ebe9304021aec42"
 metafile = true
 
 [[files]]

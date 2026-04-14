@@ -1,22 +1,139 @@
--Updated pack version to 1.0.2
+all current mods
 
--Mods added:
-RightClickHarvest
-Slot Cycler
-immersive optimization
-crafting tweaks
-inventory sorter
-immersive vehicles(formerly transport simulator)
-Immersive Vehicles (MTS/IV) - Official Content Pack - [OCP] - Planes, Cars, Helicopters & More!
-cardiac
-create: tank defenses
-create: central kitchen
-Diet (Fabric/Forge/Quilt)
-Autochef's Delight
-Aquatic Torches
+
+
+Mouse Tweaks
 Counter Strike Grenades
+Distant Horizons: A Level of Detail mod
+TxniLib
+FerriteCore ((Neo)Forge)
+Cardiac
+Kotlin for Forge
+Just Enough Items (JEI)
+Hyperslide - a movement mod
+Server Monitor
+Smooth Boot (Reloaded)
+Fast Leaf Decay
+ImmediatelyFast
+Cupboard
+AllTheLeaks (Memory Leak Fix)
+Immersive Vehicles (MTS/IV) - Official Content Pack - [OCP] - Planes, Cars, Helicopters & More!
+ShatterLib | OctoLib
+Autochef's Delight
+Mantle
+Redirected
+Copper Age Backport
+Apothic Attributes
+Canary
+FastFurnace
+Just Enough Resources (JER)
+Dynamic FPS
+Jade 🔍
+Immersive Vehicles (Formerly Transport Simulator)
+AppleSkin
+TACZ Turrets
+[NTGL] NukaTeam's Gun Lib
+Server Performance - Smooth Chunk Save[Forge/Fabric]
+Caelus API
+Farmer's Delight
+CodeChicken Lib 1.8.+
 Tips
-
-
-
-removed:
+Accelerated Recoiling
+Not Enough Recipe Book [NERB]
+Xaero's World Map
+Construction Wand
+Json Things
+JEIOres
+BetterF3
+Cull Leaves
+Puzzles Lib
+Immersive Optimization
+Sophisticated Storage
+Cyclops Core
+Classic Bars
+Slot Cycler
+Super Chat : Moderation and practice
+playerAnimator
+EMI
+Jade Addons (Neo/Forge)
+Diet (Fabric/Forge/Quilt)
+Waystones
+Storage Drawers
+MidnightLib
+Ritchie's Projectile Library
+Easy Anvils
+More Ores More Gems (Java Edition)
+Crash Assistant
+Economy+ (Economy Plus)
+Xaero's Minimap
+FTB Library (Forge)
+TaCZ JS
+Placebo
+Preloading Tricks
+Oculus
+KubeJS
+Sophisticated Backpacks
+JamLib
+Just Enough Professions (JEP)
+Architectury API
+Packet Fixer
+AllTheCompressed
+Clumps
+BadOptimizations
+GeckoLib
+Durability Tooltip
+Inventory Sorter
+Common Capabilities
+Polymorph (Fabric/Forge/Quilt)
+Ponder for KubeJS
+VIP Capes
+Cloth Config API (Fabric/Forge/NeoForge)
+Balm
+KotlinLangForge
+Moonlight Lib
+RightClickHarvest
+Bookshelf
+Elytra Slot
+Controlling
+Crafting Tweaks
+CB Multipart
+Aquatic Torches
+Corpse
+More Enchantment Info
+FastWorkbench
+AttributeFix
+Entity Culling Fabric/Forge
+Accelerated Rendering
+Searchables
+EMIffect (Status Effects EMI Plugin)
+EMI Enchants
+Unfinished Weapons
+FastSuite
+MmmMmmMmmMmm (Target Dummy)
+Configured
+Curios API (Forge/NeoForge)
+Photon
+Petrolpark Library
+More Vanilla Enchantments Levels (MVEL)
+Dank Storage
+Starlight (Forge)
+Unfinished Attachments
+LootSelect
+FTB Ultimine (Forge)
+Rhino
+Crash Utilities
+FastBoot
+[TaCZ] Timeless and Classics Zero Guns
+ModernFix
+Embeddium
+Max Health Fix
+Framework
+SuperMartijn642's Config Lib
+Potion Combiner [Potion Blending Combiner]
+Fisherman's Trap [Neo/Fabric]
+Simple Voice Chat
+EMI professions (EMIP)
+Sophisticated Core
+EMI Ores
+Enchantment Descriptions
+FTB Essentials (Forge & Fabric)

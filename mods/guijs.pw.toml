@@ -1,0 +1,13 @@
+name = "GuiJS"
+filename = "guijs-forge-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a77e2cdfe3352c43f7ef214e4b80da176052853"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7894604
+project-id = 1496401

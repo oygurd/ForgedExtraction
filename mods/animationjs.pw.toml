@@ -1,0 +1,13 @@
+name = "AnimationJS"
+filename = "animationjs-1.20.1-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b367d3862e8370c0d6ab36c25c0fc500993898df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7663563
+project-id = 997688

@@ -18,7 +18,7 @@ hash = "ab12d916549c97bc2531ded914cc54ad967f61b5d3e6d5351eb5984b13b32d5d"
 
 [[files]]
 file = "README.md"
-hash = "20cf61cae44475ab3b3a447ac7ee09f62d5c2761bc135a81e4aa7fa3fa805271"
+hash = "e5584d57bf40d07b3cae850ea1f44836888021d46e68b60a54741b6e183f3d54"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -712,11 +712,6 @@ hash = "2a6d398aa111a6448b1d4072e34f61294a517d2c8545cb0aa4239ea8ad63ce45"
 metafile = true
 
 [[files]]
-file = "mods/aquatic-torches.pw.toml"
-hash = "c29a3b0f5460b4b6ed2231ebc795eed67de2e812aabb11e7f461c093c88f231e"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3011e54cc0370c6eccab1b78e6520266015f8de4a1fd762fd7df2a6c62e1b0e0"
 metafile = true
@@ -902,11 +897,6 @@ hash = "5568291dc585a7f220d790cd26b47bf0b6a6e68ac50d5f14e26d8da8efdfeac0"
 metafile = true
 
 [[files]]
-file = "mods/economy-economy-plus.pw.toml"
-hash = "48da5a7728f10f7d1f3f04144ec7dd36edb14c6e721c5548c2a42f7c0023c685"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "8a942daa191f578931383d2e83017365da04f0bfd638132ee9274cdd95d2ef71"
 metafile = true
@@ -1004,11 +994,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "8094986628485e5acc9f526ce4ab8182d122cfaf5a383dcaf16266ed56344e17"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "1f36b9c560882e0b7ed743419eb1b36a21b51f7de998f48e80cdd5c491f85960"
 metafile = true
 
 [[files]]
@@ -1214,11 +1199,6 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "54e6ce2892f4896c0463382a22c618a8b3297744403e84d42f6a912a889e6005"
-metafile = true
-
-[[files]]
-file = "mods/potion-combiner.pw.toml"
-hash = "0ce4fefa4cded3749274f2cd41b6a9ded3682395b31fa55fe470176e186740b7"
 metafile = true
 
 [[files]]

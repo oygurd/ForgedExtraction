@@ -712,8 +712,18 @@ hash = "2a6d398aa111a6448b1d4072e34f61294a517d2c8545cb0aa4239ea8ad63ce45"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
+metafile = true
+
+[[files]]
+file = "mods/applied-kubejs-kjs-ae2.pw.toml"
+hash = "83319bd7510efa953f1a2c706fb043f2689f84226ebbb0f67cfa8c11a7879658"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3011e54cc0370c6eccab1b78e6520266015f8de4a1fd762fd7df2a6c62e1b0e0"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -1017,6 +1027,11 @@ hash = "50356d090a552bc0b2de6abb9052e661c630552fa6d72ed0bf878a3e78956172"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
+metafile = true
+
+[[files]]
 file = "mods/guijs.pw.toml"
 hash = "f3480769112a3b54ef2e1c60c1edcfd054d3762e1edbfea04e1640704b72b25a"
 metafile = true
@@ -1098,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "fdbd4671e4603cbbb0aad97dab3eda4645e16e180e639f16de850c477e178bf1"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
@@ -1233,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "41ecc1c60a8084cc3bdfffbd5cb598ab41294570731eb3697cf63c0a8e4f7c2f"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]

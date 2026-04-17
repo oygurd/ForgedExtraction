@@ -897,6 +897,21 @@ hash = "5568291dc585a7f220d790cd26b47bf0b6a6e68ac50d5f14e26d8da8efdfeac0"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "d56219f0c85ce75a00d017b1737a8e7d57cd625c0787badf432a67995c3cd752"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "132ab527e47d287d066f9c866b1e99ca35138576d04de649b3a37d1955b87cda"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "699d34485829ca99a0ec9f8c2f225136504eef97e3fd32078c0f5325603eede1"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "8a942daa191f578931383d2e83017365da04f0bfd638132ee9274cdd95d2ef71"
 metafile = true

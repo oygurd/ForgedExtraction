@@ -727,6 +727,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1d219aa5ffd7e8f9ac44d9e4c6ff048686665276234131cae8226acd6c0b847e"
 metafile = true
@@ -774,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "2d6871bd64549145a139e93fc59a2ec9b7b17e50329ee86839b98c7ec2c13140"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
 
 [[files]]
@@ -919,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "699d34485829ca99a0ec9f8c2f225136504eef97e3fd32078c0f5325603eede1"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "fdb68bcedaba7e10832e199b017d1fae8767b7292aaf940bccc646910267d96e"
 metafile = true
 
 [[files]]
@@ -1247,6 +1262,11 @@ hash = "ff4dec67c79084829f8551d99f6213ee644d07fd23e9403c251d01ed60a2a759"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
@@ -1309,6 +1329,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "ad69b6ac13e7545847c94ef027f1f677147ed932641af13b1729cad5d2a07722"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]

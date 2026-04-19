@@ -1142,11 +1142,6 @@ hash = "5f430361257de2042be737c61698182206c10f45a04e349d4cde12533832597a"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "43f3579c8b58086be64f32a90479ff5ba779c4ec602ce04e7ea0c77cc4e0b721"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "a7b46b58e7fc89f4785e0000614325a1ae12b7acf93a4f4ef7e4c3589ea68278"
 metafile = true

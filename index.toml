@@ -878,11 +878,6 @@ hash = "f56c370b32425962d0fe4a46b16a2e62fc50dc91ab415cd6ff1ae9630bddee70"
 metafile = true
 
 [[files]]
-file = "mods/copper-age-backport.pw.toml"
-hash = "bc361363cdf04a9fe352f34b11d9c2333f653cf20d691caa306b08083654de6a"
-metafile = true
-
-[[files]]
 file = "mods/corpse.pw.toml"
 hash = "4f7eeb5ecabb046e53b19bcfc586507b94e1976c6b00b1e230acbfa1a5ec566d"
 metafile = true
@@ -1143,6 +1138,11 @@ hash = "4f6ac8b7d926a5ea54a23ac74e888bb3251fba4eeba70ec1eae4f51658ccc629"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "348e78d1a55becdfbde8d58d5368eae62dfc60564bdef7a8968e3448f42f9cd3"
 metafile = true
@@ -1155,11 +1155,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "aae7fabaaa007020ca3ad27ad53513428fde45c80728f098d2f31a3ebf8ba738"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transport-simulator.pw.toml"
-hash = "344e921d87802a19e2708f705f94c7f399ff1e734222608b78a3e1d82c051942"
 metafile = true
 
 [[files]]
@@ -1250,11 +1245,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "e461c1d7534ab618fc1ff30071f4342b1de2bd8037b8ee0238530c7552c32b07"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "dce904643311ea80f4aff09e7a27cd57fefc0328c632f8a5bfeea786a5070b59"
 metafile = true
 
 [[files]]

@@ -301,6 +301,62 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "df9d63825379a79a56dd77454c69cfb3af2d6eed5732cfa718d592b79dd29254"
 
 [[files]]
+file = "config/fancymenu/assets/chest_icon.png"
+hash = "0499f18c7272ffb02a177d368d3ea9f9355222eef39a0a5010416a9b11b4d3e2"
+
+[[files]]
+file = "config/fancymenu/assets/lectern_img.png"
+hash = "910afc510b84559d4057dee7b837198a11a9a1ad1ca9c88cd09696e56465dd2c"
+
+[[files]]
+file = "config/fancymenu/assets/rewards_icon.png"
+hash = "d5321f6dbe6cca724e65cc840a1941b752d13ed7da48bdaee93cf6f5abc5ab07"
+
+[[files]]
+file = "config/fancymenu/assets/storagebutton.png"
+hash = "af00b7fe0ed97322bbf8d086097f6d701583b0765558a03cc819802032245ad9"
+
+[[files]]
+file = "config/fancymenu/assets/storagebuttonselected.png"
+hash = "dca9564f1aaf874181850e0ff7883f0744dc50b0c54e7530148e05eba59bf57b"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "e2639f0920bcd3f07366572867638408344e4c57a8d52c210d80211af100377c"
+
+[[files]]
+file = "config/fancymenu/customization/testbutton.txt"
+hash = "4a206367112d1e0b7bd9af820ad574bbbf6dd4fe48c3a10571e9293329027306"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "795b81df9004cfd5e4105a0aad484d9a91122880135df21dea4ebcd4da0b7e06"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "878c9368bec63cd86822b28ceca345704ebaa411f7b72dd0bb4e682235b790e1"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "18eddd789dd51d7a3949c1321d2c5f964f752c3e7c8569d0b12e6723c9515f2c"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "721c745374aa8a361884fdea1ceac9799963a0033568fecf169875e262b06eb7"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "c27f3d4b0eb2f8c9abc28beb8c4a4ee4571ec677e0336740ec73f53432d5cfe8"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "1b287025595ebc2862c9506ced6505f23189bd6f79c03bac717ad56d90c68394"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -737,11 +793,6 @@ hash = "1d219aa5ffd7e8f9ac44d9e4c6ff048686665276234131cae8226acd6c0b847e"
 metafile = true
 
 [[files]]
-file = "mods/autochefs-delight.pw.toml"
-hash = "ac3598cc258762934286c0f5247d752b0b86cf68a8679a5d43d8292693d78193"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "8ab363fb338d3f8fa9fda99c61d176bbd88647f37635dbfb549e90b2eec628f4"
 metafile = true
@@ -834,11 +885,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "4f7eeb5ecabb046e53b19bcfc586507b94e1976c6b00b1e230acbfa1a5ec566d"
-metafile = true
-
-[[files]]
-file = "mods/counter-strike-grenades.pw.toml"
-hash = "5a843376e49b5a70315ef3cd4755864bdf790e36d7b715d867f56afa4fd197de"
 metafile = true
 
 [[files]]
@@ -958,12 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "fa9aa329bdbefc9430cdc17bf44456c278eb3a3632956b472f71f97df6c2f9a4"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "5f5b8da6c6699b1b3a8c1b6a0be34c0b0fd8b825d360a13b4a43c28c26111201"
+hash = "bab4c411b37140882295d8c0c190b7c9cae0359aed8490d202cfbc4600d32ba4"
 metafile = true
 
 [[files]]
@@ -997,11 +1038,6 @@ hash = "1bdf260b93529024685ade5d272bfeca5703b4a9fdb50bb86917e94834c60d8a"
 metafile = true
 
 [[files]]
-file = "mods/fishermans-trap.pw.toml"
-hash = "3efb25942e027837099e95f95f6935a4fe88e1a0d5f9c10f08172cc936abd60c"
-metafile = true
-
-[[files]]
 file = "mods/forge-client-reset-packet-forward.pw.toml"
 hash = "455710a2cbf9c173cad3648cbf6af73fe3b0947747b87c2192c53946972fad10"
 metafile = true
@@ -1009,11 +1045,6 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "492813eb84be2ee547d1119641a5b09ad9023dba624e900726b15dff1e86376f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-essentials.pw.toml"
-hash = "af0ca7f5d99f4c7ad6a26f5c7ee18705c58cea5f5321f892e25adce4066b0be1"
 metafile = true
 
 [[files]]
@@ -1093,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
+hash = "50435c1e94d854aab02eed96a58590cb960146b5c00a7e1d0b805842627a6679"
 metafile = true
 
 [[files]]
@@ -1122,18 +1153,13 @@ hash = "4f6ac8b7d926a5ea54a23ac74e888bb3251fba4eeba70ec1eae4f51658ccc629"
 metafile = true
 
 [[files]]
-file = "mods/lootselect.pw.toml"
-hash = "5f430361257de2042be737c61698182206c10f45a04e349d4cde12533832597a"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "348e78d1a55becdfbde8d58d5368eae62dfc60564bdef7a8968e3448f42f9cd3"
 metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
+hash = "fd35d7099794d66a253c6a1e2ddc3b9d960bde0fd77da4567f31342d21198382"
 metafile = true
 
 [[files]]
@@ -1164,11 +1190,6 @@ metafile = true
 [[files]]
 file = "mods/more-ores-more-gems.pw.toml"
 hash = "27c6ed9c052e2146119e39d6e8610d9dfee3d71eee4b3b4279e46ff457ae2b84"
-metafile = true
-
-[[files]]
-file = "mods/more-vanilla-enchantments-levels-mvel.pw.toml"
-hash = "a9634a5910619c65bf6e018a8074c6bbc9365d89bd01b26596da45132638f7f3"
 metafile = true
 
 [[files]]
@@ -1244,11 +1265,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "67d54c1fd3481b45de18252386d99741972745cf2f5ddabb4711b7bcb4e2dc06"
 metafile = true
 
 [[files]]
@@ -1342,18 +1358,8 @@ hash = "7d6db91c64ca8d91bd92257ac1842dfb9b13341b57667a125963a9e193df4dd8"
 metafile = true
 
 [[files]]
-file = "mods/unfinished-weapons.pw.toml"
-hash = "8332a92eba2cd0863bf0b9ba253e78dd567d5f36cb3bc8c1ae719c9a34670da9"
-metafile = true
-
-[[files]]
 file = "mods/vip-capes.pw.toml"
 hash = "759523dbfc068bd06cd76a44f8d8b410afaa373d237849a2ea2336fbbaa87b93"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "120e8d084f8d4d51e1acc93050047484fd498d1ae89d0854bd357034257a5cb1"
 metafile = true
 
 [[files]]
